@@ -25,15 +25,13 @@ ul{
 }
 
 
-li{
+ul li{
 float:right;
-
 
 }
 
 
-li a{
-
+.nav{
 	display:block;
 	color:white;
 	text-align: center;
@@ -51,4 +49,6 @@ text-decoration: none;
 
 }
 
-
+.projects{
+color:black;
+}
